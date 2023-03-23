@@ -1,4 +1,4 @@
-# Wasserstein Adversarial Transformer for Cloud Workload Prediction
+# [Wasserstein Adversarial Transformer for Cloud Workload Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/21509)
 *Shivani Arbat , Vinod K. Jayakumar, Jaewoo Lee, Wei Wang, In Kee Kim*
 
 ---
